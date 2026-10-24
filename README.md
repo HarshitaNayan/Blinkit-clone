@@ -1,7 +1,18 @@
-Front-End Developer | Blinkit Clone Project
+# Blinkit Clone
 
-Developed a responsive quick-commerce UI using HTML5 and CSS3, achieving layout parity with the live Blinkit application.
+A Blinkit-inspired webpage built using HTML and CSS to practice front-end design.
 
-Engineered a flexible navigation and grid system, optimizing image scales and typography weights to resolve content-clipping bugs in vertical/mobile viewports.
+## Tech Stack
+- HTML
+- CSS
 
-Implemented intuitive search bars and navigation iconography to streamline the user browsing experience.
+## Features
+- Navigation bar and search-bar design
+- Product and category sections
+- Grid-based layout
+
+## How to Run
+Download the repository and open the HTML file in your browser.
+
+## Author
+Harshita Nayan
